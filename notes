@@ -1,0 +1,5 @@
+Gather ContentRuleList.json by grabbing a file like:
+/Users/jrmuizel/Library/WebKit/ContentExtensions/ContentRuleList-com.apple.WebPrivacy.TrackingResourceRequestContentBlocker
+and deleting the binary content
+
+Get services.json from https://github.com/disconnectme/disconnect-tracking-protection
